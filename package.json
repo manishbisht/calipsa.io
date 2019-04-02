@@ -1,0 +1,22 @@
+{
+  "name": "calipsa.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manishbisht/calipsa.io.git"
+  },
+  "author": "Manish Bisht",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manishbisht/calipsa.io/issues"
+  },
+  "homepage": "https://github.com/manishbisht/calipsa.io#readme",
+  "dependencies": {
+    "murmurhash3": "^0.4.2"
+  }
+}
